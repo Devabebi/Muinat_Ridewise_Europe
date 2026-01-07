@@ -1,0 +1,19 @@
+# Data processing
+pandas
+numpy
+faker
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# API
+fastapi
+uvicorn[standard]
+
+# Utilities
+requests
