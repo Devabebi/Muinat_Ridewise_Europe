@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Admin/OneDrive/Documents/GitHub/Muinat_Ridewise_Europe/mlruns/969808953743187709/eaba44ca4f654e08987490e7b0ed51f3/artifacts
+end_time: 1770579256285
+entry_point_name: ''
+experiment_id: '969808953743187709'
+lifecycle_stage: active
+run_id: eaba44ca4f654e08987490e7b0ed51f3
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770579255962
+status: 4
+tags: []
+user_id: Admin
