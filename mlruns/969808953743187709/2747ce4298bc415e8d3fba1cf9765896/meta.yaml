@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Admin/OneDrive/Documents/GitHub/Muinat_Ridewise_Europe/mlruns/969808953743187709/2747ce4298bc415e8d3fba1cf9765896/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '969808953743187709'
+lifecycle_stage: active
+run_id: 2747ce4298bc415e8d3fba1cf9765896
+run_name: welcoming-snake-36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771284568599
+status: 1
+tags: []
+user_id: Admin

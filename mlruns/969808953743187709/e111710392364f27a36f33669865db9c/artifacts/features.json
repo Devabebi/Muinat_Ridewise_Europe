@@ -1,0 +1,30 @@
+{
+  "features": [
+    "age",
+    "gender",
+    "total_trips",
+    "days_since_last_trip",
+    "trips_30d",
+    "completed_trips_30d",
+    "cancelled_trips_30d",
+    "total_fare_30d",
+    "total_distance_30d",
+    "promo_used_trips_30d",
+    "total_events_30d",
+    "city_Barcelona",
+    "city_Berlin",
+    "city_London",
+    "city_Milan",
+    "income_level_low",
+    "income_level_medium",
+    "signup_channel_Organic",
+    "signup_channel_Partnership",
+    "signup_channel_Referral",
+    "persona_Casual Rider",
+    "persona_Commuter",
+    "persona_Tourist",
+    "Cluster_1",
+    "Cluster_2",
+    "Cluster_3"
+  ]
+}

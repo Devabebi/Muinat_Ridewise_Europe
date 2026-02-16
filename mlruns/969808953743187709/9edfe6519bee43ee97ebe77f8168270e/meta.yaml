@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Admin/OneDrive/Documents/GitHub/Muinat_Ridewise_Europe/mlruns/969808953743187709/9edfe6519bee43ee97ebe77f8168270e/artifacts
+end_time: 1771283444719
+entry_point_name: ''
+experiment_id: '969808953743187709'
+lifecycle_stage: active
+run_id: 9edfe6519bee43ee97ebe77f8168270e
+run_name: Random Forest Classifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771283435373
+status: 3
+tags: []
+user_id: Admin

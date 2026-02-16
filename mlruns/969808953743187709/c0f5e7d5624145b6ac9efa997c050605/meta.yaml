@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Admin/OneDrive/Documents/GitHub/Muinat_Ridewise_Europe/mlruns/969808953743187709/c0f5e7d5624145b6ac9efa997c050605/artifacts
+end_time: 1771284424721
+entry_point_name: ''
+experiment_id: '969808953743187709'
+lifecycle_stage: active
+run_id: c0f5e7d5624145b6ac9efa997c050605
+run_name: XGBClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771284424520
+status: 4
+tags: []
+user_id: Admin

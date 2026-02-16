@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Admin/OneDrive/Documents/GitHub/Muinat_Ridewise_Europe/mlruns/969808953743187709/0be3767dc4cd487f823b4d0797128fb7/artifacts
+end_time: 1771284416796
+entry_point_name: ''
+experiment_id: '969808953743187709'
+lifecycle_stage: active
+run_id: 0be3767dc4cd487f823b4d0797128fb7
+run_name: dashing-skink-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771283444728
+status: 3
+tags: []
+user_id: Admin

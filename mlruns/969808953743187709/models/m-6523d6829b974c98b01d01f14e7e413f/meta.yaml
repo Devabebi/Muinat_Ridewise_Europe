@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Admin/OneDrive/Documents/GitHub/Muinat_Ridewise_Europe/mlruns/969808953743187709/models/m-6523d6829b974c98b01d01f14e7e413f/artifacts
+creation_timestamp: 1771283436988
+experiment_id: '969808953743187709'
+last_updated_timestamp: 1771283444677
+model_id: m-6523d6829b974c98b01d01f14e7e413f
+model_type: null
+name: model
+source_run_id: 9edfe6519bee43ee97ebe77f8168270e
+status: 2
+status_message: null

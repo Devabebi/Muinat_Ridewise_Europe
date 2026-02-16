@@ -1,0 +1,48 @@
+artifact_path: file:///c:/Users/Admin/OneDrive/Documents/GitHub/Muinat_Ridewise_Europe/mlruns/969808953743187709/models/m-6c611e8bb501407f9e43caa8d77a4570/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.6.0
+model_id: m-6c611e8bb501407f9e43caa8d77a4570
+model_size_bytes: 1485
+model_uuid: m-6c611e8bb501407f9e43caa8d77a4570
+prompts: null
+run_id: 12ef71cc270d4271b51c23d1e90eed3d
+signature:
+  inputs: '[{"type": "double", "name": "age", "required": true}, {"type": "long",
+    "name": "gender", "required": true}, {"type": "double", "name": "total_trips",
+    "required": true}, {"type": "double", "name": "days_since_last_trip", "required":
+    true}, {"type": "double", "name": "trips_30d", "required": true}, {"type": "double",
+    "name": "completed_trips_30d", "required": true}, {"type": "double", "name": "cancelled_trips_30d",
+    "required": true}, {"type": "double", "name": "total_fare_30d", "required": true},
+    {"type": "double", "name": "total_distance_30d", "required": true}, {"type": "double",
+    "name": "promo_used_trips_30d", "required": true}, {"type": "double", "name":
+    "total_events_30d", "required": true}, {"type": "long", "name": "city_Barcelona",
+    "required": true}, {"type": "long", "name": "city_Berlin", "required": true},
+    {"type": "long", "name": "city_London", "required": true}, {"type": "long", "name":
+    "city_Milan", "required": true}, {"type": "long", "name": "income_level_low",
+    "required": true}, {"type": "long", "name": "income_level_medium", "required":
+    true}, {"type": "long", "name": "signup_channel_Organic", "required": true}, {"type":
+    "long", "name": "signup_channel_Partnership", "required": true}, {"type": "long",
+    "name": "signup_channel_Referral", "required": true}, {"type": "long", "name":
+    "persona_Casual Rider", "required": true}, {"type": "long", "name": "persona_Commuter",
+    "required": true}, {"type": "long", "name": "persona_Tourist", "required": true},
+    {"type": "long", "name": "Cluster_1", "required": true}, {"type": "long", "name":
+    "Cluster_2", "required": true}, {"type": "long", "name": "Cluster_3", "required":
+    true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-02-16 19:53:06.674983'
